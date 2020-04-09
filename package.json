@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "20200409_121246",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
